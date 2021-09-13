@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a project where I was given the index.html and style.css files for a basic website that can be used to input tasks to schedule for certain times of day. The project uses third-party APIs such as jQuery, Bootstrap, and Moment.js.
+This is a project where I was given the index.html and style.css files for a basic website that can be used to input tasks to schedule for certain times of day. The project uses third-party APIs such as jQuery, Bootstrap, and Moment.js. The purpose of this project was to demonstrate how to use third-party APIs such as those listed.
 
 The first task was to dynamically add the HTML for the time slots, text input, and save buttons. This was set to load automatically on refreshing the page, and used Bootstrap to set up columns and rows that spanned the page and were responsive.
 
