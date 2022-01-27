@@ -12,7 +12,7 @@ Moment.js was used to indicate when a time slot had passed, was presently occurr
 
 ## Installation
 
-You can find the deployed site [here.](https://allysonmcgrath.github.io/cbcchallenge5/)
+You can find the deployed site [here.](https://allysonmcgrath.github.io/jquery-workday-scheduler/)
 
 To install the entire project and access the code, you can clone the repository by using the command prompt
 
